@@ -1,3 +1,2 @@
 # BaekjoonOnlineJudge
-* *
-eoguddld
+
