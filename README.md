@@ -1,3 +1,3 @@
-# Baekjoon-Online-Judge
-eoguddl
-zxczxczxcz
+# BaekjoonOnlineJudge
+
+About Baekjoon Online Judge problem solving by Python
