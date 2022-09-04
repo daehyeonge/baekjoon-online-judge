@@ -12,4 +12,3 @@ elif m < y:
     print("M", m)
 else:
     print("Y", y)
-
