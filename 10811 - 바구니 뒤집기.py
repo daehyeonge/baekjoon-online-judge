@@ -4,4 +4,9 @@ nList = [a for a in range(1, n + 1)]
 for _ in range(m):
     i, j = map(int, input().split())
 
-    print(nList[5:-1:-1])
+    temp = nList[i - 1:j]
+    temp.reverse()
+
+    nList[i - 1:j] = temp
+
+print(*nList)
